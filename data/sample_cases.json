@@ -1,0 +1,70 @@
+[
+  {
+    "case_id": "CASE-101",
+    "patient_name": "Ramesh Kumar",
+    "age": 58,
+    "gender": "Male",
+    "chief_complaint": "Severe crushing chest pain radiating to left arm and jaw, sweating profusely",
+    "pain_score": 9,
+    "duration_hours": 1.5,
+    "vitals": {
+      "heart_rate": 112,
+      "blood_pressure_sys": 168,
+      "blood_pressure_dia": 98,
+      "spo2": 93,
+      "temp_c": 37.1
+    },
+    "history": ["Hypertension", "Type 2 Diabetes"]
+  },
+  {
+    "case_id": "CASE-102",
+    "patient_name": "Priya Sharma",
+    "age": 24,
+    "gender": "Female",
+    "chief_complaint": "Acute wheezing, shortness of breath, cannot complete full sentences",
+    "pain_score": 6,
+    "duration_hours": 3.0,
+    "vitals": {
+      "heart_rate": 125,
+      "blood_pressure_sys": 120,
+      "blood_pressure_dia": 80,
+      "spo2": 88,
+      "temp_c": 36.8
+    },
+    "history": ["Bronchial Asthma"]
+  },
+  {
+    "case_id": "CASE-103",
+    "patient_name": "Ananya Roy",
+    "age": 19,
+    "gender": "Female",
+    "chief_complaint": "Mild sore throat, runny nose, slight fever for 2 days",
+    "pain_score": 2,
+    "duration_hours": 48.0,
+    "vitals": {
+      "heart_rate": 78,
+      "blood_pressure_sys": 115,
+      "blood_pressure_dia": 75,
+      "spo2": 99,
+      "temp_c": 38.0
+    },
+    "history": ["None"]
+  },
+  {
+    "case_id": "CASE-104",
+    "patient_name": "Siddharth Verma",
+    "age": 31,
+    "gender": "Male",
+    "chief_complaint": "Deep laceration on right forearm from broken glass, active oozing controlled by pressure",
+    "pain_score": 7,
+    "duration_hours": 0.5,
+    "vitals": {
+      "heart_rate": 84,
+      "blood_pressure_sys": 124,
+      "blood_pressure_dia": 82,
+      "spo2": 98,
+      "temp_c": 36.6
+    },
+    "history": ["None"]
+  }
+]
